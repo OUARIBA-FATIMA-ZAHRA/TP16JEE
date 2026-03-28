@@ -1,0 +1,32 @@
+services:
+  spring-app:
+    image: docker-spring-app:1.0
+    container_name: spring-monitoring-app
+    ports:
+      - "8081:8081"
+    networks:
+      - monitoring-network
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus-server
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    networks:
+      - monitoring-network
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana-dashboard
+    ports:
+      - "3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    networks:
+      - monitoring-network
+
+networks:
+  monitoring-network:
+    driver: bridge
