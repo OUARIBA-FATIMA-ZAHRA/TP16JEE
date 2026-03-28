@@ -1,0 +1,21 @@
+# TP 16 : Supervision et Journalisation (Logging + Actuator + Prometheus + Grafana)
+<img width="1916" height="331" alt="Capture d&#39;écran 2026-03-28 124906" src="https://github.com/user-attachments/assets/bcfc4b65-e86e-445e-81fe-ea9080c22c7b" />
+<img width="1919" height="258" alt="Capture d&#39;écran 2026-03-28 124919" src="https://github.com/user-attachments/assets/406172ea-ff7c-4f69-b357-2ff7856e1861" />
+<img width="1919" height="340" alt="Capture d&#39;écran 2026-03-28 124929" src="https://github.com/user-attachments/assets/a1e6848c-c8d9-441a-a5cf-a576c39aecb6" />
+<img width="1914" height="970" alt="Capture d&#39;écran 2026-03-28 124942" src="https://github.com/user-attachments/assets/8a41522b-22b3-4717-bb24-e0fcea7f4c87" />
+<img width="1919" height="339" alt="Capture d&#39;écran 2026-03-28 124952" src="https://github.com/user-attachments/assets/3c223504-d095-43fa-b0af-98d42f72382f" />
+<img width="1919" height="328" alt="Capture d&#39;écran 2026-03-28 125003" src="https://github.com/user-attachments/assets/7d57cb84-c7f1-4b27-97a8-5732502e320d" />
+<img width="1918" height="171" alt="Capture d&#39;écran 2026-03-28 125012" src="https://github.com/user-attachments/assets/de538002-c716-43ef-badc-f087c17e4ffe" />
+<img width="1918" height="202" alt="Capture d&#39;écran 2026-03-28 125019" src="https://github.com/user-attachments/assets/9a75cd2b-eacf-4320-b371-8bec1fe05dea" />
+<img width="1918" height="958" alt="Capture d&#39;écran 2026-03-28 130937" src="https://github.com/user-attachments/assets/e960b376-21c7-4684-9302-7c0bacb7c8c2" />
+<img width="1918" height="754" alt="Capture d&#39;écran 2026-03-28 131053" src="https://github.com/user-attachments/assets/29770c00-f5a2-4c40-8e74-b3729149e2e0" />
+<img width="1918" height="961" alt="Capture d&#39;écran 2026-03-28 133740" src="https://github.com/user-attachments/assets/8f7eea1b-bc7b-484a-8fbe-c9b33a30b161" />
+<img width="1919" height="970" alt="Capture d&#39;écran 2026-03-28 133810" src="https://github.com/user-attachments/assets/4476628c-e169-4daa-827b-0f309eca64da" />
+<img width="1915" height="965" alt="Capture d&#39;écran 2026-03-28 133855" src="https://github.com/user-attachments/assets/6168c442-542a-4f2e-b83a-0bf18ae7db1f" />
+<img width="1377" height="381" alt="Capture d&#39;écran 2026-03-28 141734" src="https://github.com/user-attachments/assets/1f0472e5-6361-46f5-93ec-954c89956445" />
+<img width="1899" height="916" alt="Capture d&#39;écran 2026-03-28 142057" src="https://github.com/user-attachments/assets/3eb2d7a4-4977-4d53-8076-1ce548985d3d" />
+<img width="1919" height="930" alt="Capture d&#39;écran 2026-03-28 142140" src="https://github.com/user-attachments/assets/99dfa810-86dc-4fd3-a7d4-41a333148634" />
+<img width="1915" height="935" alt="Capture d&#39;écran 2026-03-28 155231" src="https://github.com/user-attachments/assets/babefa14-1da9-4a1d-823e-d08b09df2901" />
+<img width="1918" height="949" alt="Capture d&#39;écran 2026-03-28 155630" src="https://github.com/user-attachments/assets/ecd7760d-bc09-4ba1-98c5-263f15fa8492" />
+<img width="1918" height="918" alt="Capture d&#39;écran 2026-03-28 160250" src="https://github.com/user-attachments/assets/deccf99e-6976-4d6d-b064-9ceffbc46571" />
+<img width="1459" height="313" alt="Capture d&#39;écran 2026-03-28 162516" src="https://github.com/user-attachments/assets/b2d2c6e8-f83a-4aef-b9d5-3326b10d6c8c" />
